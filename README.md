@@ -1,5 +1,2 @@
-# kottans-frontend
-Is first lesson for kottans-frontend.
-Created Git repository.
-Created Reame file
-
+## Linux CLI, and HTTP
+[Linux Survival (4 modules)]:(../task_linux_cli)
