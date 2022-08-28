@@ -10,4 +10,5 @@
 ## Responsive Web Design
 [Responsive Web Design](https://github.com/martoff1980/kottans-frontend/tree/main/%20task_responsive_web_design)
 
-## JS Basics
+## JS Basis
+[My hard sckills in JS, ES6, Algorithms, Data Structure and ect.](https://github.com/martoff1980/kottans-frontend/tree/main/task_js_basics)
