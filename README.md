@@ -9,3 +9,5 @@
 
 ## Responsive Web Design
 [Responsive Web Design](https://github.com/martoff1980/kottans-frontend/tree/main/%20task_responsive_web_design)
+
+## JS Basics
