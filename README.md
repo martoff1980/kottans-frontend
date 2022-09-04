@@ -12,3 +12,5 @@
 
 ## JS Basis
 [My hard sckills in JS, ES6, Algorithms, Data Structure and ect.](https://github.com/martoff1980/kottans-frontend/tree/main/task_js_basics)
+
+## HTML & CSS Practice
