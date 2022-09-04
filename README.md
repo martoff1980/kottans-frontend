@@ -14,3 +14,4 @@
 [My hard sckills in JS, ES6, Algorithms, Data Structure and ect.](https://github.com/martoff1980/kottans-frontend/tree/main/task_js_basics)
 
 ## HTML & CSS Practice
+[My disision for Hooli.](https://github.com/martoff1980/kottans-frontend/tree/main/task_html_%26_css_practice)
